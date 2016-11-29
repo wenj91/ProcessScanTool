@@ -1,0 +1,206 @@
+进程: 360tray -- 2504
+模块数: 99
+
+模块名称                                    基地址             入口地址           内存大小           厂商                          模块路径
+360tray.exe                                 0x00F90000         0x00FB8459         0x00064000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\360tray.exe         
+ntdll.dll                                   0x771D0000         0x00000000         0x00180000         Microsoft Corporation         C:\Windows\SysWOW64\ntdll.dll         
+kernel32.dll                                0x75E10000         0x75E232D3         0x00110000         Microsoft Corporation         C:\Windows\syswow64\kernel32.dll         
+KERNELBASE.dll                              0x74EF0000         0x74EF7478         0x00046000         Microsoft Corporation         C:\Windows\syswow64\KERNELBASE.dll         
+USER32.dll                                  0x759D0000         0x759EB6ED         0x00100000         Microsoft Corporation         C:\Windows\syswow64\USER32.dll         
+GDI32.dll                                   0x74D90000         0x74DA6343         0x00090000         Microsoft Corporation         C:\Windows\syswow64\GDI32.dll         
+LPK.dll                                     0x771A0000         0x771A36A0         0x0000A000         Microsoft Corporation         C:\Windows\syswow64\LPK.dll         
+USP10.dll                                   0x75910000         0x75943FD7         0x0009D000         Microsoft Corporation         C:\Windows\syswow64\USP10.dll         
+msvcrt.dll                                  0x76D20000         0x76D2A472         0x000AC000         Microsoft Corporation         C:\Windows\syswow64\msvcrt.dll         
+ADVAPI32.dll                                0x75D10000         0x75D249E5         0x000A0000         Microsoft Corporation         C:\Windows\syswow64\ADVAPI32.dll         
+sechost.dll                                 0x757D0000         0x757D4975         0x00019000         Microsoft Corporation         C:\Windows\SysWOW64\sechost.dll         
+RPCRT4.dll                                  0x753B0000         0x753C0569         0x000F0000         Microsoft Corporation         C:\Windows\syswow64\RPCRT4.dll         
+SspiCli.dll                                 0x74D30000         0x74D4A3B3         0x00060000         Microsoft Corporation         C:\Windows\syswow64\SspiCli.dll         
+CRYPTBASE.dll                               0x74D20000         0x74D210E1         0x0000C000         Microsoft Corporation         C:\Windows\syswow64\CRYPTBASE.dll         
+SHELL32.dll                                 0x75F20000         0x75FA1601         0x00C4A000         Microsoft Corporation         C:\Windows\syswow64\SHELL32.dll         
+SHLWAPI.dll                                 0x75350000         0x75369BA6         0x00057000         Microsoft Corporation         C:\Windows\syswow64\SHLWAPI.dll         
+ole32.dll                                   0x755A0000         0x755EBA3D         0x0015C000         Microsoft Corporation         C:\Windows\syswow64\ole32.dll         
+OLEAUT32.dll                                0x76B70000         0x76B73FB1         0x0008F000         Microsoft Corporation         C:\Windows\syswow64\OLEAUT32.dll         
+COMCTL32.dll                                0x723C0000         0x723EE6B5         0x0019E000         Microsoft Corporation         C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\COMCTL32.dll         
+IMM32.dll                                   0x757F0000         0x7580158F         0x00060000         Microsoft Corporation         C:\Windows\syswow64\IMM32.dll         
+MSCTF.dll                                   0x75700000         0x7570168B         0x000CC000         Microsoft Corporation         C:\Windows\syswow64\MSCTF.dll         
+SETUPAPI.dll                                0x75160000         0x751617E7         0x0019D000         Microsoft Corporation         C:\Windows\syswow64\SETUPAPI.dll         
+CFGMGR32.dll                                0x758E0000         0x758E58B9         0x00027000         Microsoft Corporation         C:\Windows\syswow64\CFGMGR32.dll         
+DEVOBJ.dll                                  0x759B0000         0x759B1441         0x00012000         Microsoft Corporation         C:\Windows\syswow64\DEVOBJ.dll         
+VERSION.dll                                 0x74C50000         0x74C51220         0x00009000         Microsoft Corporation         C:\Windows\system32\VERSION.dll         
+IPHLPAPI.DLL                                0x74920000         0x7492A431         0x0001C000         Microsoft Corporation         C:\Windows\system32\IPHLPAPI.DLL         
+NSI.dll                                     0x75330000         0x75331782         0x00006000         Microsoft Corporation         C:\Windows\syswow64\NSI.dll         
+WINNSI.DLL                                  0x74910000         0x7491128D         0x00007000         Microsoft Corporation         C:\Windows\system32\WINNSI.DLL         
+dbghelp.dll                                 0x72AE0000         0x72AE13CE         0x000EB000         Microsoft Corporation         C:\Windows\system32\dbghelp.dll         
+360base.dll                                 0x729D0000         0x72A48EF4         0x000E2000         360.cn                        D:\Program Files (x86)\360\360safe\360base.dll         
+NETAPI32.dll                                0x74980000         0x74981300         0x00011000         Microsoft Corporation         C:\Windows\system32\NETAPI32.dll         
+netutils.dll                                0x74970000         0x749715A6         0x00009000         Microsoft Corporation         C:\Windows\system32\netutils.dll         
+srvcli.dll                                  0x74950000         0x74951319         0x00019000         Microsoft Corporation         C:\Windows\system32\srvcli.dll         
+wkscli.dll                                  0x74940000         0x749412A1         0x0000F000         Microsoft Corporation         C:\Windows\system32\wkscli.dll         
+CRYPT32.dll                                 0x76C00000         0x76C0158A         0x0011D000         Microsoft Corporation         C:\Windows\syswow64\CRYPT32.dll         
+MSASN1.dll                                  0x75D00000         0x75D0238E         0x0000C000         Microsoft Corporation         C:\Windows\syswow64\MSASN1.dll         
+360util.dll                                 0x72940000         0x72982E36         0x00081000         360.cn                        D:\Program Files (x86)\360\360safe\360util.dll         
+WS2_32.dll                                  0x74FD0000         0x74FD145D         0x00035000         Microsoft Corporation         C:\Windows\syswow64\WS2_32.dll         
+imagehlp.dll                                0x75300000         0x753012FA         0x0002A000         Microsoft Corporation         C:\Windows\syswow64\imagehlp.dll         
+WTSAPI32.dll                                0x74B10000         0x74B111E0         0x0000D000         Microsoft Corporation         C:\Windows\system32\WTSAPI32.dll         
+USERENV.dll                                 0x74AF0000         0x74AF1C9D         0x00017000         Microsoft Corporation         C:\Windows\system32\USERENV.dll         
+profapi.dll                                 0x74AE0000         0x74AE1992         0x0000B000         Microsoft Corporation         C:\Windows\system32\profapi.dll         
+PSAPI.DLL                                   0x75010000         0x75011438         0x00005000         Microsoft Corporation         C:\Windows\syswow64\PSAPI.DLL         
+360conf.dll                                 0x72830000         0x7284E921         0x00044000         360.cn                        D:\Program Files (x86)\360\360safe\360conf.dll         
+apphelp.dll                                 0x70420000         0x70422C14         0x0004C000         Microsoft Corporation         C:\Windows\system32\apphelp.dll         
+360compro.dll                               0x73B50000         0x73B8C373         0x0008A000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\360compro.dll         
+gdiplus.dll                                 0x720B0000         0x7214D026         0x00190000         Microsoft Corporation         C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\gdiplus.dll         
+SAMCLI.DLL                                  0x72700000         0x7270125E         0x0000F000         Microsoft Corporation         C:\Windows\system32\SAMCLI.DLL         
+360common.dll                               0x73A80000         0x73A9ED38         0x00050000         360.cn                        D:\Program Files (x86)\360\360safe\360common.dll         
+RICHED20.DLL                                0x73CE0000         0x73CE16BB         0x00076000         Microsoft Corporation         C:\Windows\system32\RICHED20.DLL         
+SiteUIProxy.dll                             0x735E0000         0x7360A74D         0x0005A000         360.cn                        D:\Program Files (x86)\360\360safe\Utils\SiteUIProxy.dll         
+sites.dll                                   0x734B0000         0x7355E8BE         0x00129000         360.cn                        D:\Program Files (x86)\360\360safe\sites.dll         
+MSIMG32.dll                                 0x744C0000         0x744C10F6         0x00005000         Microsoft Corporation         C:\Windows\system32\MSIMG32.dll         
+WINMM.dll                                   0x727F0000         0x727F37F1         0x00032000         Microsoft Corporation         C:\Windows\system32\WINMM.dll         
+ipcservice.dll                              0x733B0000         0x733F8523         0x0008F000         360.CN                        D:\Program Files (x86)\360\360safe\ipc\ipcservice.dll         
+x64for32lib.dll                             0x733A0000         0x733A1FDA         0x0000F000         360.cn                        D:\Program Files (x86)\360\360safe\ipc\x64for32lib.dll         
+fileMgr.dll                                 0x73330000         0x7335F50B         0x00057000         360.cn                        D:\Program Files (x86)\360\360safe\ipc\fileMgr.dll         
+yhregd.dll                                  0x73200000         0x73239E0A         0x0006C000         360.cn                        D:\Program Files (x86)\360\360safe\ipc\yhregd.dll         
+WINSPOOL.DRV                                0x6FE30000         0x6FE5988C         0x00051000         Microsoft Corporation         C:\Windows\system32\WINSPOOL.DRV         
+appd.dll                                    0x73110000         0x73183BA2         0x000BB000         360.cn                        D:\Program Files (x86)\360\360safe\ipc\appd.dll         
+MPR.dll                                     0x71B70000         0x71B71200         0x00012000         Microsoft Corporation         C:\Windows\system32\MPR.dll         
+netdefender.dll                             0x72FF0000         0x73017403         0x00051000         360.cn                        D:\Program Files (x86)\360\360safe\ipc\netdefender.dll         
+DNSAPI.dll                                  0x72ED0000         0x72EE63F9         0x00044000         Microsoft Corporation         C:\Windows\system32\DNSAPI.dll         
+BAPI.dll                                    0x72320000         0x7234073F         0x00040000         360.cn                        D:\Program Files (x86)\360\360safe\deepscan\BAPI.dll         
+360traylive.dll                             0x72FB0000         0x72FC1A5B         0x00035000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\360traylive.dll         
+360procmon.dll                              0x6FBA0000         0x6FBD5523         0x0007C000         360.CN                        D:\Program Files (x86)\360\360safe\safemon\360procmon.dll         
+SelfProtectAPI2.dll                         0x6F670000         0x6F68B3E5         0x00050000         360.CN                        D:\Program Files (x86)\360\360safe\safemon\SelfProtectAPI2.dll         
+WINTRUST.dll                                0x75CD0000         0x75CD296D         0x0002D000         Microsoft Corporation         C:\Windows\syswow64\WINTRUST.dll         
+360bsmon.tpi                                0x732E0000         0x732FD03F         0x00047000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\360bsmon.tpi         
+Secur32.dll                                 0x726F0000         0x726F10E9         0x00008000         Microsoft Corporation         C:\Windows\system32\Secur32.dll         
+360dfsopt.tpi                               0x6F2A0000         0x6F2B3736         0x00041000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\360dfsopt.tpi         
+360safemonpro.tpi                           0x6F0F0000         0x6F1A5D1C         0x0013B000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\360safemonpro.tpi         
+netmon.tpi                                  0x732B0000         0x732BF7FA         0x0002F000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\netmon.tpi         
+Netm.tpi                                    0x6EB80000         0x6EC07C8F         0x001FA000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\Netm.tpi         
+sfc.dll                                     0x72FA0000         0x00000000         0x00003000         Microsoft Corporation         C:\Windows\system32\sfc.dll         
+sfc_os.DLL                                  0x710E0000         0x710E1392         0x0000D000         Microsoft Corporation         C:\Windows\system32\sfc_os.DLL         
+BootLeakFixer.tpi                           0x6FE00000         0x6FE0E128         0x00030000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\BootLeakFixer.tpi         
+obtracer.tpi                                0x6F580000         0x6F5B662D         0x00070000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\obtracer.tpi         
+WindowsCodecs.dll                           0x6F750000         0x6F7617E1         0x000FB000         Microsoft Corporation         C:\Windows\system32\WindowsCodecs.dll         
+filedef.dll                                 0x6F550000         0x6F5624C0         0x00030000         360.cn                        D:\Program Files (x86)\360\360safe\ipc\filedef.dll         
+CRYPTSP.dll                                 0x71F60000         0x71F62DC3         0x00016000         Microsoft Corporation         C:\Windows\system32\CRYPTSP.dll         
+rsaenh.dll                                  0x71F20000         0x71F2128D         0x0003B000         Microsoft Corporation         C:\Windows\system32\rsaenh.dll         
+qutmload.dll                                0x72620000         0x7263041A         0x00062000         360.cn                        D:\Program Files (x86)\360\360safe\deepscan\qutmload.dll         
+fltlib.dll                                  0x72CF0000         0x72CF2B44         0x00007000         Microsoft Corporation         C:\Windows\system32\fltlib.dll         
+qutmipc.dll                                 0x6EA40000         0x6EA4F0FB         0x0002E000         360.cn                        D:\Program Files (x86)\360\360safe\ipc\qutmipc.dll         
+dhcpcsvc.DLL                                0x72EA0000         0x72EA3271         0x00012000         Microsoft Corporation         C:\Windows\system32\dhcpcsvc.DLL         
+dhcpcsvc6.DLL                               0x72E90000         0x72E92012         0x0000D000         Microsoft Corporation         C:\Windows\system32\dhcpcsvc6.DLL         
+SomAdvUtils.dll                             0x73980000         0x73A1BCA9         0x000F3000         360.cn                        D:\Program Files (x86)\360\360safe\SoftMgr\SomAdvUtils.dll         
+somkernl.dll                                0x73640000         0x73870C36         0x0033B000         360.cn                        D:\Program Files (x86)\360\360safe\SoftMgr\somkernl.dll         
+urlmon.dll                                  0x75020000         0x75021B35         0x00136000         Microsoft Corporation         C:\Windows\syswow64\urlmon.dll         
+WININET.dll                                 0x754A0000         0x754A1865         0x000F5000         Microsoft Corporation         C:\Windows\syswow64\WININET.dll         
+iertutil.dll                                0x75AD0000         0x75AD22D9         0x001FB000         Microsoft Corporation         C:\Windows\syswow64\iertutil.dll         
+msi.dll                                     0x71550000         0x715566BD         0x00240000         Microsoft Corporation         C:\Windows\system32\msi.dll         
+360netbase.dll                              0x726A0000         0x726C7C0D         0x0004C000         360.cn                        D:\Program Files (x86)\360\360safe\360netbase.dll         
+mswsock.dll                                 0x72F20000         0x72F2145D         0x0003C000         Microsoft Corporation         C:\Windows\System32\mswsock.dll         
+rtutils.dll                                 0x72690000         0x72691326         0x0000D000         Microsoft Corporation         C:\Windows\system32\rtutils.dll         
+AveScan.dll                                 0x6E950000         0x6E952310         0x00016000         360.cn                        D:\Program Files (x86)\360\360safe\deepscan\AveScan.dll         
+sbmon.dll                                   0x6DE40000         0x6DE671E6         0x0005F000         360互联网安全中心                    D:\Program Files (x86)\360\360safe\ipc\sbmon.dll         
+360box.dll                                  0x6DDD0000         0x6DDD6AEE         0x0004D000         360.cn                        D:\Program Files (x86)\360\360safe\ipc\360box.dll         
+appdext.dll                                 0x6DBD0000         0x6DBDE091         0x0002A000         360.cn                        D:\Program Files (x86)\360\360safe\ipc\appdext.dll         
+Netgm.dll                                   0x6DA50000         0x6DA6A81A         0x00045000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\Netgm.dll         
+safemonhlp.dll                              0x6DA00000         0x6DA127FF         0x00033000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\safemonhlp.dll         
+Cloudcom2.dll                               0x10000000         0x100B076A         0x00116000         360.cn                        D:\Program Files (x86)\360\360safe\deepscan\Cloudcom2.dll         
+WDRecord.dll                                0x6E980000         0x6E99118A         0x00030000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\WDRecord.dll         
+heavygate.dll                               0x051D0000         0x0522179A         0x0007B000         360.cn                        D:\Program Files (x86)\360\360safe\deepscan\heavygate.dll         
+jcloudscan.dll                              0x6E470000         0x6E4DC8D5         0x00134000         360.cn                        D:\Program Files (x86)\360\360safe\deepscan\jcloudscan.dll         
+360AntiHacker.dll                           0x6E970000         0x6E971013         0x00006000         360.cn                        D:\Program Files (x86)\360\360safe\ipc\360AntiHacker.dll         
+DrvUtility.dll                              0x6E430000         0x6E43C834         0x0002A000         360.cn                        D:\Program Files (x86)\360\360safe\ipc\DrvUtility.dll         
+360UDiskGuard.dll                           0x6E3D0000         0x6E3DA833         0x00034000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\360UDiskGuard.dll         
+UxTheme.dll                                 0x74440000         0x744537C9         0x00080000         Microsoft Corporation         C:\Windows\system32\UxTheme.dll         
+360WebIdentify.dll                          0x6E340000         0x6E353820         0x0003F000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\360WebIdentify.dll         
+MiniUI.dll                                  0x6DCE0000         0x6DD61831         0x000E4000         360.cn                        D:\Program Files (x86)\360\360safe\MiniUI.dll         
+SafeLive.dll                                0x6DB70000         0x6DBA1453         0x0005F000         360.cn                        D:\Program Files (x86)\360\360safe\SafeLive.dll         
+pdown.dll                                   0x6DC00000         0x6DC17338         0x0003A000         360.cn                        D:\Program Files (x86)\360\360safe\pdown.dll         
+ierd_tgp_lsp.dll                            0x72D00000         0x72D71082         0x00173000         Tencent                       C:\Windows\system32\ierd_tgp_lsp.dll         
+wshtcpip.dll                                0x72CE0000         0x72CE15DF         0x00005000         Microsoft Corporation         C:\Windows\System32\wshtcpip.dll         
+wship6.dll                                  0x71D10000         0x71D11673         0x00006000         Microsoft Corporation         C:\Windows\System32\wship6.dll         
+rasadhlp.dll                                0x72E80000         0x72E814B2         0x00006000         Microsoft Corporation         C:\Windows\system32\rasadhlp.dll         
+NLAapi.dll                                  0x72F90000         0x72F938C1         0x00010000         Microsoft Corporation         C:\Windows\system32\NLAapi.dll         
+napinsp.dll                                 0x72F80000         0x72F81526         0x00010000         Microsoft Corporation         C:\Windows\system32\napinsp.dll         
+pnrpnsp.dll                                 0x72F60000         0x72F618F2         0x00012000         Microsoft Corporation         C:\Windows\system32\pnrpnsp.dll         
+winrnr.dll                                  0x72EC0000         0x72EC131E         0x00008000         Microsoft Corporation         C:\Windows\System32\winrnr.dll         
+360Verify.dll                               0x6FDB0000         0x6FDB5A74         0x0001C000                                       D:\Program Files (x86)\360\360safe\360Verify.dll         
+SomProxy.dll                                0x6D8C0000         0x6D8EB8DD         0x00060000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\SomProxy.dll         
+360GuardBase.dll                            0x6D870000         0x6D88F700         0x00050000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\360GuardBase.dll         
+urlproc.dll                                 0x6D7D0000         0x6D825058         0x00097000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\urlproc.dll         
+safemon.dll                                 0x6D600000         0x6D70AEC8         0x001C8000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\safemon.dll         
+safehmpg.dll                                0x73AF0000         0x73B11D83         0x00055000                                       D:\Program Files (x86)\360\360safe\safemon\safehmpg.dll         
+360netctrl.dll                              0x6F3E0000         0x6F408E14         0x00061000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\360netctrl.dll         
+OLEACC.dll                                  0x73270000         0x73273089         0x0003C000         Microsoft Corporation         C:\Windows\system32\OLEACC.dll         
+360wvmon.dll                                0x06E00000         0x06E120D1         0x00037000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\360wvmon.dll         
+3GIdentify.dll                              0x07370000         0x073837D0         0x00036000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\3GIdentify.dll         
+360netmisc.dll                              0x6D4F0000         0x6D51BF33         0x00067000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\360netmisc.dll         
+360NMConnection.dll                         0x6D4A0000         0x6D4BCEF9         0x00049000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\360NMConnection.dll         
+360nmvui.dll                                0x6D390000         0x6D3CAD9C         0x000A1000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\360nmvui.dll         
+360nmdata.dll                               0x6D920000         0x6D92AE6B         0x00025000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\360nmdata.dll         
+360gameidentify.dll                         0x6D2B0000         0x6D2C6430         0x0003D000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\360gameidentify.dll         
+DEVRTL.dll                                  0x73390000         0x73391289         0x0000E000         Microsoft Corporation         C:\Windows\system32\DEVRTL.dll         
+360PerfOptm2.dll                            0x6D200000         0x6D2593C1         0x000A4000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\360PerfOptm2.dll         
+RASAPI32.dll                                0x748B0000         0x748B14BE         0x00052000         Microsoft Corporation         C:\Windows\system32\RASAPI32.dll         
+rasman.dll                                  0x74890000         0x748912DE         0x00015000         Microsoft Corporation         C:\Windows\system32\rasman.dll         
+HipsLog.dll                                 0x6EA20000         0x6EA24726         0x00014000         360.CN                        D:\Program Files (x86)\360\360safe\ipc\HipsLog.dll         
+netmpgame.dll                               0x6D140000         0x6D18EDEB         0x000B3000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\netmpgame.dll         
+PatchCheck.dll                              0x6D0E0000         0x6D105E68         0x0005B000         360.cn                        D:\Program Files (x86)\360\360safe\ipc\PatchCheck.dll         
+CLBCatQ.DLL                                 0x74F40000         0x74F423D2         0x00083000         Microsoft Corporation         C:\Windows\syswow64\CLBCatQ.DLL         
+propsys.dll                                 0x71DE0000         0x71DF0D9E         0x000F5000         Microsoft Corporation         C:\Windows\system32\propsys.dll         
+PowrProf.dll                                0x73BE0000         0x73BE2B71         0x00025000         Microsoft Corporation         C:\Windows\system32\PowrProf.dll         
+ntmarta.dll                                 0x71950000         0x7195145E         0x00021000         Microsoft Corporation         C:\Windows\system32\ntmarta.dll         
+WLDAP32.dll                                 0x74E20000         0x74E211E1         0x00045000         Microsoft Corporation         C:\Windows\syswow64\WLDAP32.dll         
+SearchDesktopHlp.tpi                        0x6D0A0000         0x6D0AE885         0x00031000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\SearchDesktopHlp.tpi         
+360TrayLogin.tpi                            0x6CFA0000         0x6CFB785E         0x00039000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\360TrayLogin.tpi         
+360ExpLogin.dll                             0x6CEB0000         0x6CF14825         0x000AD000         360.cn                        D:\Program Files (x86)\360\360safe\utils\360ExpLogin.dll         
+360Login.dll                                0x6CD40000         0x6CDC2130         0x00105000         360.cn                        D:\Program Files (x86)\360\360safe\360Login.dll         
+360NetUL.dll                                0x6CD00000         0x6CD154A2         0x0003D000         360.cn                        D:\Program Files (x86)\360\360safe\360NetUL.dll         
+360MobileBase.tpi                           0x063E0000         0x063F3695         0x00036000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\360MobileBase.tpi         
+360SafeCamera.tpi                           0x6CA80000         0x6CA96862         0x00065000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\360SafeCamera.tpi         
+devenum.dll                                 0x6CA40000         0x6CA4CE73         0x00014000         Microsoft Corporation         C:\Windows\SysWOW64\devenum.dll         
+msdmo.dll                                   0x6DA40000         0x6DA439AB         0x0000B000         Microsoft Corporation         C:\Windows\system32\msdmo.dll         
+AdPopBlocker.tpi                            0x6C9B0000         0x6C9DC841         0x00063000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\AdPopBlocker.tpi         
+AdPopWnd.dll                                0x6C920000         0x6C96498E         0x00086000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\SDPlugin\AdPopWnd.dll         
+fwpuclnt.dll                                0x712E0000         0x712E990E         0x00038000         Microsoft Corporation         C:\Windows\System32\fwpuclnt.dll         
+RouterSafeTpi.tpi                           0x6C890000         0x6C8AB958         0x00043000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\RouterSafeTpi.tpi         
+WifiSafe.dll                                0x6C730000         0x6C806B62         0x00158000         360.cn                        D:\Program Files (x86)\360\360safe\deepscan\WifiSafe.dll         
+cloudsec3.dll                               0x6C630000         0x6C6C1406         0x000F2000         360.cn                        D:\Program Files (x86)\360\360safe\deepscan\cloudsec3.dll         
+wlanapi.dll                                 0x73E00000         0x73E01240         0x00016000         Microsoft Corporation         C:\Windows\system32\wlanapi.dll         
+wlanutil.dll                                0x6FDF0000         0x6FDF1A24         0x00006000         Microsoft Corporation         C:\Windows\system32\wlanutil.dll         
+DsTpi.tpi                                   0x74270000         0x74284560         0x00034000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\DsTpi.tpi         
+360HipsPopWnd.dll                           0x6B280000         0x6B2DA6F8         0x00103000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\360HipsPopWnd.dll         
+NetmLogin.dll                               0x6E010000         0x6E05CFF7         0x00085000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\NetmLogin.dll         
+360ExpClient.dll                            0x6DFB0000         0x6DFD9098         0x00052000         360.cn                        D:\Program Files (x86)\360\360safe\Utils\360ExpClient.dll         
+360ExpData.dll                              0x6DF80000         0x6DF886B0         0x00021000         360.cn                        D:\Program Files (x86)\360\360safe\Utils\360ExpData.dll         
+netmpoptm.dll                               0x6D560000         0x6D596A64         0x0009E000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\netmpoptm.dll         
+sensapi.dll                                 0x71D30000         0x71D3125A         0x00006000         Microsoft Corporation         C:\Windows\system32\sensapi.dll         
+LINKINFO.dll                                0x69D10000         0x69D1153E         0x00009000         Microsoft Corporation         C:\Windows\system32\LINKINFO.dll         
+wdexhelper.dll                              0x6F5F0000         0x6F5F6D3D         0x0001B000         360.cn                        D:\Program Files (x86)\360\360safe\safemon\wdexhelper.dll         
+FirewallAPI.dll                             0x6FB20000         0x6FB2760E         0x00076000         Microsoft Corporation         C:\Windows\SysWOW64\FirewallAPI.dll         
+taskschd.dll                                0x725A0000         0x725A166A         0x0007D000         Microsoft Corporation         C:\Windows\SysWOW64\taskschd.dll         
+XmlLite.dll                                 0x6F0C0000         0x6F0C1142         0x0002F000         Microsoft Corporation         C:\Windows\system32\XmlLite.dll         
+netmpflux.dll                               0x60290000         0x602B89F2         0x00070000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\netmpflux.dll         
+RpcRtRemote.dll                             0x727B0000         0x727B1235         0x0000E000         Microsoft Corporation         C:\Windows\system32\RpcRtRemote.dll         
+mssprxy.dll                                 0x69630000         0x696371E6         0x0000C000         Microsoft Corporation         C:\Windows\system32\mssprxy.dll         
+ncrypt.dll                                  0x71EE0000         0x71EE1489         0x00038000         Microsoft Corporation         C:\Windows\system32\ncrypt.dll         
+bcrypt.dll                                  0x71DC0000         0x71DC35FA         0x00017000         Microsoft Corporation         C:\Windows\system32\bcrypt.dll         
+bcryptprimitives.dll                        0x71D80000         0x71D810F5         0x0003D000         Microsoft Corporation         C:\Windows\SysWOW64\bcryptprimitives.dll         
+GPAPI.dll                                   0x71D60000         0x71D62061         0x00016000         Microsoft Corporation         C:\Windows\system32\GPAPI.dll         
+cryptnet.dll                                0x71D40000         0x71D41452         0x0001C000         Microsoft Corporation         C:\Windows\system32\cryptnet.dll         
+LiveUpd360.dll                              0x5FE60000         0x5FE969A6         0x0009A000         360.cn                        D:\Program Files (x86)\360\360safe\LiveUpd360.dll         
+360net.dll                                  0x17530000         0x17572D77         0x0007A000         360.cn                        D:\Program Files (x86)\360\360safe\360net.dll         
+360P2SP.dll                                 0x5FC10000         0x5FC6F6EB         0x000FF000         360.cn                        D:\Program Files (x86)\360\360safe\360P2SP.dll         
+Normaliz.dll                                0x75340000         0x00000000         0x00003000         Microsoft Corporation         C:\Windows\syswow64\Normaliz.dll         
+AVEI.dll                                    0x5FB80000         0x5FB8EC54         0x00030000         360.cn                        D:\Program Files (x86)\360\360safe\deepscan\ave\AVEI.dll         
+AVEngine.dll                                0x5FA90000         0x5FB18C83         0x000EB000         360.cn                        D:\Program Files (x86)\360\360safe\deepscan\ave\AVEngine.dll         
+deepscan.dll                                0x5AE00000         0x5AF47290         0x00259000         360.cn                        D:\Program Files (x86)\360\360safe\deepscan\deepscan.dll         
+Cabinet.dll                                 0x5FDF0000         0x5FDF11FA         0x00015000         Microsoft Corporation         C:\Windows\system32\Cabinet.dll         
+360qvm.dll                                  0x5AAD0000         0x5AB46605         0x000C7000         360.cn                        D:\Program Files (x86)\360\360safe\deepscan\qvm\360qvm.dll         
+360UKeepAlive.dll                           0x56090000         0x560AC402         0x00045000         360.cn                        D:\Program Files (x86)\360\360safe\Utils\360UKeepAlive.dll         
+360AskMsg.dll                               0x55D20000         0x55D2D093         0x0002A000         360.cn                        D:\Program Files (x86)\360\360safe\netmon\360AskMsg.dll         
+360expert.dll                               0x52B30000         0x52D7CD34         0x003EF000                                       D:\Program Files (x86)\360\360safe\Utils\360expert.dll         
+COMDLG32.dll                                0x74E70000         0x74E71AEE         0x0007B000         Microsoft Corporation         C:\Windows\syswow64\COMDLG32.dll         
+360GenRoadMsg.dll                           0x55CF0000         0x55CFBA7B         0x0002C000         360.cn                        D:\Program Files (x86)\360\360safe\Utils\360GenRoadMsg.dll         
+asycfilt.dll                                0x55B20000         0x55B2CB1A         0x00014000         Microsoft Corporation         C:\Windows\system32\asycfilt.dll         
+7z.dll                                      0x1C580000         0x1C61D133         0x00115000         Igor Pavlov                   D:\Program Files (x86)\360\360safe\safemon\7z.dll         
