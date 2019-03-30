@@ -4,7 +4,7 @@ using System.Text;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-namespace 进程线程检测
+namespace ProcessThreadScanTools
 {
     class CSTools
     {
@@ -58,7 +58,25 @@ namespace 进程线程检测
             SET_THREAD_TOKEN = (0x0080),
             IMPERSONATE = (0x0100),
             DIRECT_IMPERSONATION = (0x0200),
-            THREAD_ALL_ACCESS = (0x001F03FFF)
+            THREAD_ALL_ACCESS = (0x001F03FFF),
+            DELETE = 0x10000,        
+            READ_CONTROL = 0x20000,        
+            WRITE_DAC = 0x40000,    
+            WRITE_OWNER = 0x80000,    
+            SYNCHRONIZE = 0x100000,    
+            THREAD_DIRECT_IMPERSONATION = 0x200,    
+            THREAD_GET_CONTEXT = 0x8,    
+            THREAD_IMPERSONATE = 0x100,    
+            THREAD_QUERY_INFORMATION = 0x40,    
+            THREAD_QUERY_LIMITED_INFORMATION = 0x800,    
+            THREAD_SET_CONTEXT = 0x10,    
+            THREAD_SET_INFORMATION = 0x20,    
+            THREAD_SET_LIMITED_INFORMATION = 0x400,    
+            THREAD_SET_THREAD_TOKEN = 0x80,    
+            THREAD_SUSPEND_RESUME = 0x2,    
+            THREAD_TERMINATE = 0x1,    
+            STANDARD_RIGHTS_REQUIRED=0x000F0000,    
+            PROCESS_ALL_ACCESS = (STANDARD_RIGHTS_REQUIRED | SYNCHRONIZE | 0xFFF)
         }
 
         [DllImport("kernel32.dll")]
@@ -168,6 +186,57 @@ namespace 进程线程检测
                     return "等待";
                 default:
                     return "未知"; 
+            }
+        }
+
+        public static string GetThreadWaitReason(ProcessThread pt)
+        {
+            switch (pt.WaitReason)
+            {
+                case ThreadWaitReason.EventPairHigh:
+                    Console.WriteLine("线程正在等待事件对高");
+                    return "线程正在等待事件对高";
+                case ThreadWaitReason.EventPairLow:
+                    Console.WriteLine("线程正在等待事件对低");
+                    return "线程正在等待事件对低";
+                case ThreadWaitReason.ExecutionDelay:
+                    Console.WriteLine("线程执行延迟");
+                    return "线程执行延迟";
+                case ThreadWaitReason.Executive:
+                    Console.WriteLine("线程正在等待计划程序");
+                    return "线程正在等待计划程序";
+                case ThreadWaitReason.FreePage:
+                    Console.WriteLine("线程正在等待可用的虚拟内存页");
+                    return "线程正在等待可用的虚拟内存页";
+                case ThreadWaitReason.LpcReceive:
+                    Console.WriteLine("线程正在等待本地过程调用到达");
+                    return "线程正在等待本地过程调用到达";
+                case ThreadWaitReason.LpcReply:
+                    Console.WriteLine("线程正在等待对本地过程调用的回复到达");
+                    return "线程正在等待对本地过程调用的回复到达";
+                case ThreadWaitReason.PageIn:
+                    Console.WriteLine("线程正在等待虚拟内存页到达内存");
+                    return "线程正在等待虚拟内存页到达内存";
+                case ThreadWaitReason.PageOut:
+                    Console.WriteLine("线程正在等待虚拟内存页写入磁盘");
+                    return "线程正在等待虚拟内存页写入磁盘";
+                case ThreadWaitReason.Suspended:
+                    Console.WriteLine("线程执行暂停");
+                    return "线程执行暂停";
+                case ThreadWaitReason.SystemAllocation:
+                    Console.WriteLine("线程正在等待系统分配");
+                    return "线程正在等待系统分配";
+                case ThreadWaitReason.Unknown:
+                    Console.WriteLine("线程因位置原因而等待");
+                    return "线程因位置原因而等待";
+                case ThreadWaitReason.UserRequest:
+                    Console.WriteLine("线程正在等待用户请求");
+                    return "线程正在等待用户请求";
+                case ThreadWaitReason.VirtualMemory:
+                    Console.WriteLine("线程正在等待系统分配虚拟内存");
+                    return "线程正在等待系统分配虚拟内存";
+                default:
+                    return "未知";
             }
         }
 

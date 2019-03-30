@@ -1,0 +1,8 @@
+D:\git\ProcessScanTool\进程线程检测\obj\Debug\进程线程检测.exe
+D:\git\ProcessScanTool\进程线程检测\obj\Debug\进程线程检测.pdb
+D:\git\ProcessScanTool\进程线程检测\bin\Debug\进程线程检测.exe
+D:\git\ProcessScanTool\进程线程检测\bin\Debug\进程线程检测.pdb
+D:\git\ProcessScanTool\进程线程检测\obj\Debug\ProcessThreadScanTools.ProcessThreadScanner.resources
+D:\git\ProcessScanTool\进程线程检测\obj\Debug\ProcessThreadScanTools.Properties.Resources.resources
+D:\git\ProcessScanTool\进程线程检测\obj\Debug\进程线程检测.csproj.GenerateResource.Cache
+D:\git\ProcessScanTool\进程线程检测\obj\Debug\ProcessThreadScanTools.AboutThis.resources

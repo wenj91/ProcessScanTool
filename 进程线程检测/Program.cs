@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace 进程线程检测
+namespace ProcessThreadScanTools
 {
     static class Program
     {
@@ -14,7 +14,7 @@ namespace 进程线程检测
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new 线程进程检测());
+            Application.Run(new ProcessThreadScanner());
         }
     }
 }
